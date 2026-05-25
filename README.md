@@ -433,6 +433,7 @@ Experience our production-ready configurations with a single phone call:
 
 **Dial: (925) 736-6718**
 
+- **Press 4** → xAI Grok Realtime (NEW in v6.5.2)
 - **Press 5** → Google Live API (Multimodal AI with Gemini 2.0)
 - **Press 6** → Deepgram Voice Agent (Enterprise cloud with Think stage)
 - **Press 7** → OpenAI Realtime API (Modern cloud AI, most natural)
